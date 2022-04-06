@@ -1,0 +1,67 @@
+{
+  "AMdata": [
+    {
+      "pname": "Denish John",
+      "oaddress": "32,mahek icon, surat",
+      "daddress": "43,varachha , vadodara",
+      "mnumber": "256-564-52-121",
+      "type": "Debitor",
+      "id": 1
+    },
+    {
+      "pname": "kenil raina",
+      "oaddress": "23, khand bazzar, surat",
+      "daddress": "45, palatina , bhavnagar ",
+      "mnumber": "8980722615",
+      "type": "Debitor",
+      "id": 2
+    }
+  ],
+  "CMdata": [
+    {
+      "cname": "red/45",
+      "weight": "23.28",
+      "id": 1
+    },
+    {
+      "cname": "Yellow/0.87",
+      "weight": "4",
+      "id": 3
+    },
+    {
+      "cname": "Blue/34",
+      "weight": "6",
+      "id": 4
+    }
+  ],
+  "DMdata": [
+    {
+      "dname": "YT345",
+      "pick": "1",
+      "mtype": "23423/235423",
+      "feder": "3",
+      "id": 1
+    },
+    {
+      "dname": "gfh",
+      "pick": "4",
+      "mtype": "266/55",
+      "feder": "4",
+      "id": 6
+    },
+    {
+      "dname": "GGSEr",
+      "pick": "43",
+      "mtype": "3423",
+      "feder": "2",
+      "id": 7
+    },
+    {
+      "dname": "Denish",
+      "pick": "",
+      "mtype": "2312",
+      "feder": "2",
+      "id": 8
+    }
+  ]
+}
